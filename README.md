@@ -16,7 +16,7 @@ Welcome to Swigato! This is a simple and elegant website showcasing various feat
 - [License](#license)
 
 ## Introduction
-Swigato is a personal website created by Atharwa Kulkarni. It serves as a portfolio and a platform to share projects and achievements. The website has a clean and intuitive design, making it easy to navigate and explore the content.
+Swigato is a personal website created by Atharwa Kulkarni. It serves as a food delivery website. The website has a clean and intuitive design, making it easy to navigate and explore the content.
 
 ## Features
 - **Projects:** View an extensive collection of projects in various domains.
